@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+插入排序.cpp
+选择排序.cpp
